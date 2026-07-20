@@ -46,8 +46,6 @@ Giivv is an online gifting platform that offers personalized, corporate, and occ
 
 ## 3. IdeaBytes IoT
 
-# IdeaBytes IoT
-
 ## Overview
 IdeaBytes IoT provides IoT-based monitoring solutions for industries that require real-time environmental monitoring and data logging.
 
