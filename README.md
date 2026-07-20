@@ -1,5 +1,9 @@
-## Day 1 – Internship Journey
+# My Internship Journey
 
-* Completed the onboarding process, including setting up the ticketing system and attendance portal.
-* Created a GitHub account using my company email address.
-* Created a new GitHub repository for managing internship-related work.
+Welcome to my internship journal repository.
+
+This repository contains:
+- Daily internship journal
+- Git learning notes
+- Company research notes
+- About Me information
