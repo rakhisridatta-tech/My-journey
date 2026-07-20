@@ -21,47 +21,50 @@ Techarion is a technology company that focuses on software development, Artifici
 
 ## 2. Giivv
 
-### Overview
-Giivv is an employee engagement and rewards platform that helps organizations recognize and appreciate employees. It aims to improve workplace motivation through recognition and reward programs.
+## Overview
+Giivv is an online gifting platform that offers personalized, corporate, and occasion-based gifts for individuals and businesses.
 
-### Features
-- Employee recognition
-- Rewards and incentives
-- Performance appreciation
-- Team engagement
-- Workplace culture improvement
+## Products
+- Personalized Gifts
+- Corporate Gifts
+- Return Gifts
+- Home & Living
+- Fashion
+- Plants
+- Gift Hampers
 
-### What I Learned
-- Employee recognition increases motivation.
-- Digital reward platforms improve employee engagement.
-- Positive workplace culture contributes to organizational success.
+## Key Features
+- Personalized products
+- Corporate gifting solutions
+- Easy online shopping
+- Attractive discounts
 
----
+## What I Learned
+- Personalized gifts create memorable experiences.
+- Corporate gifting strengthens business relationships.
+- An organized online platform makes shopping simple and convenient.
 
 ## 3. IdeaBytes IoT
 
-### Overview
-IdeaBytes IoT focuses on Internet of Things (IoT), embedded systems, and smart technology solutions. The company develops connected devices that collect and analyze real-time data.
+# IdeaBytes IoT
 
-### Services
-- IoT Solutions
-- Smart Automation
-- Embedded Systems
-- Device Connectivity
-- Industrial IoT Applications
+## Overview
+IdeaBytes IoT provides IoT-based monitoring solutions for industries that require real-time environmental monitoring and data logging.
 
-### What I Learned
-- IoT devices communicate over the internet to exchange data.
-- Smart sensors enable automation and monitoring.
-- IoT is widely used in industries, healthcare, and smart cities.
+## Products & Services
+- Wireless Data Loggers
+- Real-Time Monitoring Systems
+- Temperature & Humidity Monitoring
+- Environmental Monitoring
+- Cloud-Based Monitoring Solutions
 
----
+## Key Features
+- Real-time data monitoring
+- Wireless IoT devices
+- FDA 21 CFR Part 11 compliant
+- Trusted by global businesses
 
-# Overall Learning
-
-After exploring these companies, I understood that:
-
-- AI is transforming industries through intelligent automation.
-- IoT enables real-time monitoring and smart decision-making.
-- Employee engagement platforms improve workplace productivity.
-- Modern software companies combine AI, cloud computing, and data analytics to solve business problems.
+## What I Learned
+- IoT enables continuous monitoring of critical environments.
+- Real-time data helps improve safety and operational efficiency.
+- Wireless monitoring systems reduce manual effort and provide accurate insights.
