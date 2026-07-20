@@ -7,3 +7,7 @@ This repository contains:
 - Git learning notes
 - Company research notes
 - About Me information
+
+## Day 2
+
+Learning Git branching and pull requests.
