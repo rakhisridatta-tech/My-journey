@@ -70,3 +70,6 @@ Uploads your local commits to the remote GitHub repository.
 - Usually performed after every successful commit.
 - Example:git push origin main or git push origin master
   
+## Branches
+
+A Git branch is an independent line of development that allows developers to work on features without affecting the main branch.

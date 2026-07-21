@@ -7,3 +7,7 @@
 - Created my repository
 - Explored company websites
 - completed the day 1 tasks(5)
+
+## Day 2 Preparation
+
+Today I learned how to create branches, commit changes, and work with pull requests.
