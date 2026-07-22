@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lumen — Learn with an AI that actually pays attention</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,560;0,9..144,680;1,9..144,500&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="chalk-cursor" aria-hidden="true"></div>
+
+<header class="nav-wrap">
+  <nav class="nav" aria-label="Primary">
+    <a href="#top" class="brand">
+      <span class="brand-mark" aria-hidden="true">✳</span>
+      Lumen
+    </a>
+
+    <button class="nav-toggle" id="navToggle" aria-expanded="false" aria-controls="navLinks" aria-label="Toggle menu">
+      <span></span><span></span><span></span>
+    </button>
+
+    <div class="nav-links" id="navLinks">
+      <a href="#features">Features</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+      <a href="#contact" class="btn btn-ghost nav-cta">Get in touch</a>
+    </div>
+  </nav>
+</header>
+
+<main id="top">
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <p class="eyebrow">AI-guided, human-paced</p>
+        <h1 class="display">
+          The tutor that
+          <em>rewrites the lesson</em>
+          when you're stuck.
+        </h1>
+        <p class="lede">
+          Lumen watches how you learn — not just what you got wrong — and redraws
+          your path in real time. No fixed courses. No falling behind quietly.
+        </p>
+        <div class="hero-actions">
+          <a href="#features" class="btn btn-primary">See how it works</a>
+          <a href="#about" class="btn btn-text">Read our approach →</a>
+        </div>
+        <p class="hero-note"><span class="dot"></span> Currently teaching 40+ subjects, from linear algebra to line editing.</p>
+      </div>
+
+      <div class="hero-path" aria-hidden="true">
+        <svg id="pathSvg" viewBox="0 0 460 460" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path id="learningPath" d="M60 380 C 60 300, 160 320, 170 250 C 180 180, 90 170, 110 100 C 125 45, 220 55, 260 40 C 320 20, 360 70, 400 60"
+                stroke="#2563EB" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="6 10"/>
+          <g class="path-node" style="--delay:0s" transform="translate(60,380)">
+            <circle r="20"/>
+            <text x="0" y="5">1</text>
+            <text class="path-label" x="0" y="42">Foundations</text>
+          </g>
+          <g class="path-node" style="--delay:.4s" transform="translate(110,100)">
+            <circle r="20"/>
+            <text x="0" y="5">2</text>
+            <text class="path-label" x="0" y="-30">Practice</text>
+          </g>
+          <g class="path-node" style="--delay:.8s" transform="translate(260,40)">
+            <circle r="20"/>
+            <text x="0" y="5">3</text>
+            <text class="path-label" x="0" y="-30">Feedback</text>
+          </g>
+          <g class="path-node" style="--delay:1.2s" transform="translate(400,60)">
+            <circle r="22" class="node-final"/>
+            <text x="0" y="5">✳</text>
+            <text class="path-label" x="-10" y="42">Mastery</text>
+          </g>
+        </svg>
+      </div>
+    </div>
+  </section>
+
+  <!-- FEATURES -->
+  <section class="features" id="features">
+    <div class="section-head">
+      <p class="eyebrow">Under the chalk dust</p>
+      <h2 class="display">Three things Lumen does differently</h2>
+    </div>
+
+    <div class="cards">
+      <article class="card reveal">
+        <span class="card-mark">◐</span>
+        <h3>Paths that bend, not break</h3>
+        <p>
+          Every wrong answer gets diagnosed, not just marked. Lumen finds the
+          actual gap — a missed prerequisite, a shaky definition — and slots in
+          a short detour before you move on.
+        </p>
+        <code class="card-tag">adaptive_path.rewrite()</code>
+      </article>
+
+      <article class="card reveal">
+        <span class="card-mark">◑</span>
+        <h3>A tutor with a memory</h3>
+        <p>
+          Lumen remembers the explanation that clicked for you three weeks ago,
+          and reaches for a version of it again — same metaphor, new problem.
+          Nothing gets re-taught from scratch.
+        </p>
+        <code class="card-tag">context.recall(learner)</code>
+      </article>
+
+      <article class="card reveal">
+        <span class="card-mark">◒</span>
+        <h3>Feedback in minutes, not weeks</h3>
+        <p>
+          Submit a proof, a paragraph, or a pull request. Get specific,
+          line-level feedback back before you've lost your train of thought —
+          with the reasoning shown, not just a grade.
+        </p>
+        <code class="card-tag">feedback.explain(work)</code>
+      </article>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="about" id="about">
+    <div class="about-inner">
+      <div class="about-visual" aria-hidden="true">
+        <div class="about-board">
+          <span class="board-line l1"></span>
+          <span class="board-line l2"></span>
+          <span class="board-line l3"></span>
+          <span class="board-underline"></span>
+        </div>
+      </div>
+      <div class="about-copy">
+        <p class="eyebrow">Why we built this</p>
+        <h2 class="display">Most courses are built for the average learner. You aren't average — nobody is.</h2>
+        <p class="lede">
+          We started Lumen after watching the same thing happen in every online
+          class we took: everyone gets the same lecture, the same pace, the
+          same three chances to "get it," regardless of what they actually
+          needed. So we built a platform that reads the room of one.
+        </p>
+        <ul class="about-list">
+          <li><strong>No cohorts.</strong> You start the moment you're curious, not the first of the month.</li>
+          <li><strong>No dead ends.</strong> Every mistake becomes the next lesson, automatically.</li>
+          <li><strong>No black box.</strong> You can always ask Lumen why it chose the path it did.</li>
+        </ul>
+        <a href="#contact" class="btn btn-primary">Get in touch</a>
+      </div>
+    </div>
+  </section>
+  <!-- CTA BANNER -->
+  <section class="cta-banner">
+    <div class="cta-banner-inner">
+      <div class="cta-banner-copy">
+        <p class="eyebrow">Ready when you are</p>
+        <h2 class="display">Bring Lumen to your next subject.</h2>
+      </div>
+      <a href="#contact" class="btn btn-primary cta-banner-btn">Get in touch →</a>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="contact" id="contact">
+    <div class="contact-inner">
+      <div class="contact-copy">
+        <p class="eyebrow">Contact</p>
+        <h2 class="display">Tell us what you're trying to learn.</h2>
+        <p class="lede">
+          Whether you're one curious learner or a team rolling this out for a
+          whole cohort, write to us below — a real person replies within a
+          business day.
+        </p>
+        <ul class="contact-details">
+          <li><strong>Email</strong><span>hello@lumen.learn</span></li>
+          <li><strong>Response time</strong><span>Within one business day</span></li>
+        </ul>
+      </div>
+
+      <form class="contact-form" id="contactForm" novalidate>
+        <div class="form-row">
+          <label for="contactName">Name</label>
+          <input type="text" id="contactName" name="name" placeholder="Ada Lovelace" required>
+        </div>
+        <div class="form-row">
+          <label for="contactEmail">Email</label>
+          <input type="email" id="contactEmail" name="email" placeholder="ada@email.com" required>
+        </div>
+        <div class="form-row">
+          <label for="contactMessage">What do you want to learn?</label>
+          <textarea id="contactMessage" name="message" rows="4" placeholder="Tell us a bit about your goals..." required></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary contact-submit">Send message</button>
+        <p class="form-note" id="contactNote" role="status"></p>
+      </form>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer" id="footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <a href="#top" class="brand">
+        <span class="brand-mark" aria-hidden="true">✳</span>
+        Lumen
+      </a>
+      <p>An AI learning platform that redraws the lesson, not just the score.</p>
+    </div>
+
+    <div class="footer-cols">
+      <div class="footer-col">
+        <h4>Product</h4>
+        <a href="#features">Features</a>
+        <a href="#about">About</a>
+        <a href="#top">Pricing</a>
+      </div>
+      <div class="footer-col">
+        <h4>Company</h4>
+        <a href="#about">Our approach</a>
+        <a href="#footer">Careers</a>
+        <a href="#contact">Contact</a>
+      </div>
+      <div class="footer-col">
+        <h4>Stay in the loop</h4>
+        <form class="footer-form" id="footerForm">
+          <label for="footerEmail" class="sr-only">Email address</label>
+          <input type="email" id="footerEmail" placeholder="you@email.com" required>
+          <button type="submit">Join</button>
+        </form>
+        <p class="form-note" id="formNote" role="status"></p>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>© <span id="year"></span> Lumen Learning, Inc. All rights reserved.</p>
+    <p>Made with chalk, coffee, and a few thousand gradient descents.</p>
+  </div>
+</footer>
+
+<button id="backToTop" class="back-to-top" aria-label="Back to top">↑</button>
+
+<script src="script.js"></script>
+</body>
+</html>
