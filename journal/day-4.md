@@ -4,9 +4,9 @@ Daily Learning Journal — July 23, 2026
 
 Today's focus was on deepening my understanding of Claude's extensibility features. I learned about Claude Skills and MCP (Model Context Protocol), explored how they let Claude adapt to custom workflows, and put that knowledge into practice by creating my first custom Claude skill. I also spent time organizing my GitHub repository to keep things tidy and easier to navigate going forward.
 
-Challenges
+one hard question:
 -No major challenges reported today.
--creating a skill made me think about the claude subscription but still i have completed in the creationa nd testing of the skill from free access itself.
+-creating a skill made me think about the claude subscription but still i have completed the creation and testing of the skill from free access itself and will the integration of the claude with git hub make any major effects during the deployment process? 
 
 Key Takeaways
 -Claude Skills allow you to define structured, repeatable workflows that Claude can follow consistently.
