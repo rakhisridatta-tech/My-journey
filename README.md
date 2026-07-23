@@ -22,3 +22,15 @@ Learning Git branching and pull requests.
 - created new folders and files required fot the day-3
 - made corrections (renaming the files and adjusted the repo structure)
 - attached the simple generated landing page in day-3-claude-code.md
+
+## Day 4 – Skills & MCP
+
+### Learned
+- Claude Skills
+- Model Context Protocol (MCP)
+- Creating and testing a custom skill
+- Organizing a GitHub repository
+
+### Files Added
+- exercises/day-4-mcp/.claude/skills/daily-journal/SKILL.md
+- learnings/day-04-mcp.md
