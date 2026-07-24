@@ -34,3 +34,17 @@ Learning Git branching and pull requests.
 ### Files Added
 - exercises/day-4-mcp/.claude/skills/daily-journal/SKILL.md
 - learnings/day-04-mcp.md
+
+
+## Day 5 - Cloud & Docker Basics
+
+### Topics Learned
+
+- What is Cloud Computing
+- What is Docker
+- Containers
+- Docker Images
+- Docker Registry
+- Kubernetes Basics
+- DigitalOcean
+- Deployment Flow
