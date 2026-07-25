@@ -48,3 +48,14 @@ Learning Git branching and pull requests.
 - Kubernetes Basics
 - DigitalOcean
 - Deployment Flow
+
+## Day 6 - Web Basics
+
+### Topics Learned
+- HTML
+- CSS
+- Box Model
+- Flexbox
+
+### Exercise
+Built a styled personal profile webpage using HTML and CSS.
