@@ -59,3 +59,10 @@ Learning Git branching and pull requests.
 
 ### Exercise
 Built a styled personal profile webpage using HTML and CSS.
+
+## Day 7 – Tailwind Landing Page
+
+- Learned Tailwind CSS basics
+- Built a responsive TechArion landing page
+- Used Grid, Flexbox, and utility classes
+- Practiced responsive web design
