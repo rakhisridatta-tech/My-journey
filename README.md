@@ -66,3 +66,18 @@ Built a styled personal profile webpage using HTML and CSS.
 - Built a responsive TechArion landing page
 - Used Grid, Flexbox, and utility classes
 - Practiced responsive web design
+
+# Day 08 – Google Tag Manager (GTM)
+
+## Objective
+Learn the basics of Google Tag Manager (GTM) and understand how Tags, Triggers, and Variables work together.
+
+## Completed
+- Learned GTM fundamentals.
+- Understood Tags, Triggers, and Variables.
+- Created a lead form tracking sketch.
+- Documented key learnings.
+
+## Files
+- `lead-form-gtm-sketch.md`
+
