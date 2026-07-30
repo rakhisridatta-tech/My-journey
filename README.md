@@ -81,3 +81,17 @@ Learn the basics of Google Tag Manager (GTM) and understand how Tags, Triggers, 
 ## Files
 - `lead-form-gtm-sketch.md`
 
+# Day 09 – PostHog + Meta Pixel
+
+## Objective
+Learn how PostHog and Meta Pixel track user behavior using a simple funnel.
+
+## Completed
+- Created a tracking plan
+- Learned PostHog basics
+- Learned Meta Pixel basics
+- Understood funnel events
+
+## Hard Question I Still Have
+
+How can I ensure that PostHog and Meta Pixel track the same user actions without sending duplicate events or affecting data accuracy?
