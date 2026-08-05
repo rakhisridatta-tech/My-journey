@@ -95,3 +95,18 @@ Learn how PostHog and Meta Pixel track user behavior using a simple funnel.
 ## Hard Question I Still Have
 
 How can I ensure that PostHog and Meta Pixel track the same user actions without sending duplicate events or affecting data accuracy?
+
+## Day 10 – Meta Ads
+
+### Topics Covered
+- Meta Ads Basics
+- Campaign Structure
+- Ad Sets
+- Ad Creatives
+- Media Planning
+- Advertising Metrics (CPM, CTR, ROAS, CAC)
+
+### Deliverables
+- Campaign Plan
+- Learning Notes
+- Daily Journal
