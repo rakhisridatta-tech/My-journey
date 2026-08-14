@@ -110,3 +110,31 @@ How can I ensure that PostHog and Meta Pixel track the same user actions without
 - Campaign Plan
 - Learning Notes
 - Daily Journal
+
+# My Journey
+
+Welcome to my learning journey.
+
+## 📚 Learnings
+
+My notes and concepts learned during the journey.
+
+## 🛠️ Exercises
+
+Practical projects, experiments, and builds.
+
+## 📖 Journal
+
+Daily reflections and weekly reviews.
+
+## 🚀 Portfolio
+
+[View My Portfolio](./exercises/day-11-portfolio/README.md)
+
+## 📅 Latest Progress
+
+- Day 11 — Content + Portfolio
+- Created a structured portfolio
+- Defined 3 content pillars
+- Completed Week 1 review
+- Improved repository organization
